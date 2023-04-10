@@ -2,5 +2,3 @@
 "how are you??"
 "my name is naveen"
 "my surname is jaiswal"
-
-testing the project
